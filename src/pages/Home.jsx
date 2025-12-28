@@ -2,9 +2,9 @@ import React from 'react';
 import Hero from '../Components/Hero';
 import Banner from '../Components/Banner';
 import { Link } from 'react-router-dom';
-import Services from '../Components/Services';
+import Services from '../components/Services';
 import FeaturedRooms from '../Components/FeaturedRooms';
-import Button from '../Components/Services'
+import Button from '../components/Services';
 
 export const Home = () => {
   return (
